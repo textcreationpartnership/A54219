@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Quakers advice to the Presbyterians, or, Their evil practises against the now established government being friendly admonitions to exhort them to loyalty and obedience / written by an eminent Quaker and sent in a letter to a gentleman of the black cloak by W.P.</title>
+            <author>W. P.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54219</idno>
+            <idno type="STC">Wing P137</idno>
+            <idno type="STC">ESTC R30078</idno>
+            <idno type="EEBO-CITATION">11242727</idno>
+            <idno type="OCLC">ocm 11242727</idno>
+            <idno type="VID">47060</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54219)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47060)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1447:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Quakers advice to the Presbyterians, or, Their evil practises against the now established government being friendly admonitions to exhort them to loyalty and obedience / written by an eminent Quaker and sent in a letter to a gentleman of the black cloak by W.P.</title>
+                  <author>W. P.</author>
+               </titleStmt>
+               <extent>[2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.B.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterianism --  Controversial literature.</term>
+               <term>Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:47060:1" rendition="simple:additions"/>
+            <head>THE Quakers Advice TO THE PRESBYTERIANS. OR Their evil practiſes againſt the now eſtabliſhed GOVERNMENT, BEING Friendly Admonitions to exhort them to Loyalty and Obedience.</head>
+            <head type="sub">Written by an Eminent Quaker, and ſent in a Letter to a Gentleman of the Black Cloak.</head>
+            <byline>By <hi>W.P.</hi>
+            </byline>
+            <opener>
+               <salute>FRiend,</salute>
+            </opener>
+            <p>I being moved by the ſecret impulſe of the Spirit; for thy good I have thought it meet to Reprove thee and ſay unto thee, thy wayes have been perverſe, yea, thou haſt walked in an unknown Path and the light is departed from thee: thou haſt given up thy ſelf to ſow Sedition in the Nation, and art full of Pride, and Malice, ſince for which thy Councellour the Old Serpent was tumbled headlong into the bottomleſs Pit; yea, I muſt tell thee plainly Satan has prevailed over thee, and thou haſt gone aſtray like one of the Wicked? I ſay, thou art fallen from thy Obedience, and dark<g ref="char:EOLhyphen"/>neſs has covered thy underſtanding: therefore, it is that I have Adminiſtred unto thee to ſhew thee the right way which neither <hi>Jack Calvin</hi> thy Grand<g ref="char:EOLhyphen"/>father nor <hi>Oliver</hi> thy Father had the Honeſty to do; woe be unto thee I ſay, for thou wouldeſt have caſt off thy Yoak which thou oughteſt to bear with Patience: thou I ſay haſt murmered againſt thy Ruler, and haſt endeavoured to turn aſide the people: yea, I ſay thou haſt turned them aſide by teaching Rebellion amidſt thy Congregation, and didſt ſo terrifie thy Flock with ap<g ref="char:EOLhyphen"/>prehenſions of the ſudden approach of <hi>Belzebub, Mahomet,</hi> and the Whore of <hi>Babylon,</hi> that all the Brethren in much Confuſion ran to their Coffee-houſe Clubbs, whilſt the kind Siſters ſought ſhelter under the Skirts of thy Gar<g ref="char:EOLhyphen"/>ments, where thou keepeſt them warm in the abſence of their Yoakmates; woe be to thy upper Garment, I mean thy black Cloak: yea, the Abomination of Deſolation is lodged there; there I ſay Hypocriſie has taken up her dwelling, and the Secret pleaſures of the fleſh are indulged: yea, thou haſt often conſpired to bring us into Bondage, and make us return again into <hi>Egypt:</hi> verily thy Locuſts
+<pb facs="tcp:47060:2"/>are come up, and almoſt darkened the face of the Land; thou like thy eldeſt Siſter the Whore of <hi>Babylon</hi> delighteſt to conſpire againſt thy Ruler; yea, the inward man doth ſay that thou lately ſadleſt thy Elephant to meet her, yea, and that thou hadſt met her had not thy Girts broke and thou obſtructed in thy deſign; therefore I ſay unto thee beware how thou falleſt any more, leaſt thou fall into Perdition: Remember the ſins of your Forefathers, <hi>Hewſon, Oliver, Ireton, Bradſhaw, Cook,</hi> &amp;c. Thoſe were the Men that taught thee to Rebell againſt thy Ruler, they were the true Sons of <hi>Babel</hi> that turned all things into Confuſion and had like to have made me gone aſtray had not the inward man prevaile againſt their Temptations. Thoſe were the men that dipped their hands in the blood of their Ruler, whoſe Actions thou art ſo prophane as to approve of, which ſhews thee to be of the Seed of the Serpent, and the very Seed-plot of all Conſpiracy and Rebellion; yea, I am greatly moved at the evil of thy doings: Remember the Holy cheat thou putteſt upon the Holy Siſter<g ref="char:EOLhyphen"/>hood, to draw in a Numberleſs quantity of Bodkins and Thimbles to maintain Rebellion againſt thy Ruler; which thou Hypocritically perſwadeſt them was for the <hi>Good Old Cauſe:</hi> yea, I ſay let that <hi>Old Cauſe</hi> (which was the Root of Rebellion, and the main Inſtrument with which the Old Serpent works) periſh, and all that ſeek its welfare, (that I) to ruine this Spot of Earth which our Creator has given us to live peaceably on; Yea, let it periſh, for I well remember that <hi>Old Cauſe</hi> was once the cauſe of all our miſeries, that Cauſed the loſing of a Hundred Thouſand Lives: that was the <hi>Cauſe</hi> that cauſed the Land to bluſh with Blood: it was the <hi>Cauſe</hi> that cauſed ſo many Widdows and Orphans to water their Couches with Tears; O I ſhake, I quake, I tremble to think of that wicked <hi>Old Cauſe</hi> that cauſed ſo many troubles in our Nation, and put thy Ruler to flight; 'tis no wonder thy Ruler refuſed to unbridle thee, for had he done it thou wouldſt ſoon have grown too Headſtrong for his Rule, and have ventured another Race for the <hi>Cauſe,</hi> which would have cauſed a Thouſand woes: nay, thou didſt begin to Gallop, and hadſt put on full ſpeed, had he not held thee in in time. Thou knoweſt very well that thy Original falling out with thoſe men called Biſhops, and thoſe Ceremonies uſed in the Church ſo called was, only the more unſuſpectedly to gull the poor ſilly women from their Pence, but remember that thoſe practices can be termed only De<g ref="char:EOLhyphen"/>ceit and Robery, and that thy deſign is no more Adopted to diſturb us, then that of <hi>Mahomet,</hi> to obtain the Worlds Empire as long as we have a peaceable Ruler over us. Well it is certain thou beareſt a very evil mind, and wouldſt fain be at the 41st. Year again; I have often reproved thee for it, but thou haſt turned a Deaf Ear unto me: I once more Adviſe thee to be peaceable, and love thy Ruler, for he is mercifull and thou knoweſt he has given thee a great deal of Tolleration in thy Profeſſion: therefore beware leaſt thou provoke him, and his hand falls heavy upon thee; ponder well what I have ſaid. And ſo farwell.</p>
+            <closer>
+               <signed>W. P.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>W. B.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
